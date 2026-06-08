@@ -1,6 +1,6 @@
 from aiogram import types
 from aiogram.types import *
-from data.config import *
+from exchanger.data.config import *
 from loader import dp, bot
 from keyboards import inline_keyboards as ikb
 from utils.database import *
